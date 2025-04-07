@@ -4,10 +4,6 @@
 
 <strong>A Model Context Protocol (MCP) server for telemetry within chat systems using Weights & Biases Weave</strong>
 
-[![GitHub][github-badge]][github-url]
-[![MIT licensed][mit-badge]][mit-url]
-[![Python Version][python-badge]][python-url]
-
 </div>
 
 ## Overview
