@@ -24,6 +24,8 @@ MCP Telemetry provides a simple interface for logging and tracking conversations
 
 ## Installation
 
+First, get a WandB API Key from: https://wandb.ai/settings#api
+
 This server can be installed by adding the following json to your Claude desktop config:
 
 ```
